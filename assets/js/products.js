@@ -3,7 +3,7 @@ const productos = [
     {
         id: 'h01',
         titulo: "KNICKS WTH",
-        foto: "./assets/img/C-KNICKS-BT.JPG",
+        foto: "./assets/img/C-KNICKS-BT.jpg",
         categoria:{
             nombre:'Hombre',
             id:'hombre',
